@@ -7,22 +7,22 @@ I'm a self-taught devops engineer who doesn't want to end the story there. I am 
 ---
 
 ### Languages and Tools
-<img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-python-48.png">
-<img align="left" alt="Flask" width="35px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-flask-64.png">
-<img align="left" alt="Django" width="35px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-django-48.png">
-<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-java-48.png">
-<img align="left" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-javascript-48.png">
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-html-5-48.png">
-<img align="left" alt="CSS" width="35px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-css3-100.png">
-<img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-linux-48.png">
-<img align="left" alt="Windows" width="35px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-windows-10-48.png">
-<img align="left" alt="AWS" width="35px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-amazon-web-services-48.png">
-<img align="left" alt="Azure" width="35px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-azure-48.png">
-<img align="left" alt="Docker" width="35px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-docker-48.png">
-<img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-git-48.png">
-<img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-github-48.png">
-<img align="left" alt="Terraform" width="35px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-terraform-48.png">
-<img align="left" alt="Jenkins" width="35px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-jenkins-48.png">
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-python-48.png">
+<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-flask-64.png">
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-django-48.png">
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-java-48.png">
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-javascript-48.png">
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-html-5-48.png">
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-css3-100.png">
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-linux-48.png">
+<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-windows-10-48.png">
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-amazon-web-services-48.png">
+<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-azure-48.png">
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-docker-48.png">
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-git-48.png">
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-github-48.png">
+<img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-terraform-48.png">
+<img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-jenkins-48.png">
 <br />
 <br />
 <sub align="left"><sup>Icons from [Icon8](https://icons8.com/)</sup></sub>
