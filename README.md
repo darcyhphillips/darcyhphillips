@@ -1,4 +1,4 @@
-### Darcy Phillips 
+### Hi! I'm Darcy. Nice you meet you. 🙂
 
 **`DevOps Engineer and Aspiring Software Engineer`**
 
