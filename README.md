@@ -9,7 +9,6 @@ I'm a self-taught devops engineer who doesn't want to end the story there. I am 
 ### Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-python-48.png">
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-flask-64.png">
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-django-48.png">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-java-48.png">
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-javascript-48.png">
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/darcyhphillips/profile-icons/blob/main/icons8-html-5-48.png">
