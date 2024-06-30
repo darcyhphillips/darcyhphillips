@@ -47,11 +47,11 @@ I'm a self-taught devops engineer who doesn't want to end the story there. I am 
 I am currently focused on becoming a full-stack developer. I am building out my portfolio and working on projects using Python/Flask/Django and JavaScript/React. I do not have experience with these technologies in a production setting but my goal is to be involved with those types of projects going forward. 
 
 #### Some project ideas I have in my personal backlog are:
-🔹 Front-ending a Langchain chatbot with Flask and Django
+🔹 Finish building out my AI agent that helps suggest ingredient substitutions on recipes for people with food sensitivities 
 <br />
-🔹 Building a site that accepts payments and stores user logins to deepen my understanding of MongoDB
+🔹 Doing more with connecting my back-end strengths to my front-end weaknesses 
 <br />
-🔹 Pulling in stats about either the environment or the meat industry and displaying custom metrics about those topics
+🔹 Teaching my daughter how she can build a calculator with code and use it for her math lessons
 <br />
 
 ---
