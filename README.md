@@ -1,6 +1,6 @@
 ### Hi! I'm Darcy. Nice you meet you. 🙂
 
-**`DevOps Engineer and Aspiring Software Engineer`**
+**`DevOps Engineer, Product Owner, and Aspiring Software Engineer`**
 
 I'm a self-taught devops engineer who doesn't want to end the story there. I am constantly looking for new things to learn in and outside of tech. Creating valuable deliverables is what keeps me going every day. If I am on a team with a good backlog and a sprint ready to go, sign me up!
 
